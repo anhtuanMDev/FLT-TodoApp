@@ -25,6 +25,7 @@ The project use:
 
 # Demo App
 
+![todo](https://github.com/anhtuanMDev/FLT-TodoApp/assets/146323838/9b331beb-baac-4a48-ae1f-e98d1203e2c7)
 
 
 ## Getting Started
