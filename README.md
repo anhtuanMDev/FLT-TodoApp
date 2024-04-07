@@ -15,12 +15,13 @@ Todo app also provide editing, deleting keep track on your to do list status.
 # library
 
 The project use: 
+```js
     - flutter_slidable: ^3.1.0
     - hive: ^2.2.3
     - hive_flutter: ^1.1.0
     - hive_generator: ^2.0.1
     - build_runner: ^2.4.9
-
+```
 ## Getting Started
 
 This project is a starting point for a Flutter application.
