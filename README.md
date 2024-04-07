@@ -6,8 +6,10 @@ A new to do list Flutter project.
 
 The app provide feature include creating and store your to do list.
 It has 2 screen for difference purpose: 
+```sh
     + One called permance for permance data got store in hive 
     + Two called time for short time limit data, the to do list will got remove after turn off the app.
+```
 Todo app also provide editing, deleting keep track on your to do list status.
 
 # library
