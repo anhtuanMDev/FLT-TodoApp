@@ -25,7 +25,7 @@ The project use:
 
 # Demo App
 
-![todo](https://github.com/anhtuanMDev/FLT-TodoApp/assets/146323838/46b7f52d-1ab3-4f48-81fe-733cec1dc0e8)
+![Uploading todo.gif…]()
 
 
 ## Getting Started
