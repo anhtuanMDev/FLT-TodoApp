@@ -1,8 +1,8 @@
-# simple_app
+# Simple_app
 
 A new to do list Flutter project.
 
-# feature
+# Feature
 
 The app provide feature include creating and store your to do list.
 It has 2 screen for difference purpose: 
@@ -12,7 +12,7 @@ It has 2 screen for difference purpose:
 ```
 Todo app also provide editing, deleting keep track on your to do list status.
 
-# library
+# Library
 
 The project use: 
 ```js
@@ -22,6 +22,12 @@ The project use:
     - hive_generator: ^2.0.1
     - build_runner: ^2.4.9
 ```
+
+# Demo App
+
+![todo](https://github.com/anhtuanMDev/FLT-TodoApp/assets/146323838/46b7f52d-1ab3-4f48-81fe-733cec1dc0e8)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -34,3 +40,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
