@@ -25,7 +25,6 @@ The project use:
 
 # Demo App
 
-![Uploading todo.gif…]()
 
 
 ## Getting Started
